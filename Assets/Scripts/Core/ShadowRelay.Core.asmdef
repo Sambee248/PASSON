@@ -1,0 +1,16 @@
+{
+  "name": "ShadowRelay.Core",
+  "rootNamespace": "",
+  "references": [
+    "ShadowRelay.CheckpointContracts"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

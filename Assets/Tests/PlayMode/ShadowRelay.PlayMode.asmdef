@@ -1,0 +1,26 @@
+{
+  "name": "ShadowRelay.PlayMode",
+  "rootNamespace": "",
+  "references": [
+    "ShadowRelay.Puzzles",
+    "ShadowRelay.Shadow",
+    "ShadowRelay.Core",
+    "ShadowRelay.Camera",
+    "ShadowRelay.UI",
+    "ShadowRelay.Player",
+    "Unity.TextMeshPro",
+    "ShadowRelay.Enemies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

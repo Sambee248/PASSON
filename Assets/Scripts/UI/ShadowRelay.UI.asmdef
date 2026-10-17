@@ -1,0 +1,20 @@
+{
+  "name": "ShadowRelay.UI",
+  "rootNamespace": "",
+  "references": [
+    "ShadowRelay.Core",
+    "ShadowRelay.Camera",
+    "ShadowRelay.Puzzles",
+    "ShadowRelay.Shadow",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

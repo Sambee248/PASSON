@@ -1,0 +1,19 @@
+{
+  "name": "ShadowRelay.Shadow",
+  "rootNamespace": "",
+  "references": [
+    "ShadowRelay.Core",
+    "ShadowRelay.Player",
+    "ShadowRelay.Puzzles",
+    "ShadowRelay.CheckpointContracts"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

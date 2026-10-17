@@ -1,0 +1,29 @@
+{
+  "name": "ShadowRelay.EditMode",
+  "rootNamespace": "",
+  "references": [
+    "ShadowRelay.Core",
+    "ShadowRelay.Player",
+    "ShadowRelay.Camera",
+    "ShadowRelay.Puzzles",
+    "ShadowRelay.Shadow",
+    "ShadowRelay.UI",
+    "ShadowRelay.CheckpointContracts",
+    "ShadowRelay.Enemies",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
